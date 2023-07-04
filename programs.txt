@@ -1,0 +1,6 @@
+git
+brave
+edge
+chrome
+vscode
+telegram
