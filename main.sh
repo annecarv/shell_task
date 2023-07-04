@@ -26,7 +26,7 @@ while:
                 apt_instalar;;
 
             2) exit
-            esac
+        esac
 }
 
 iniciar
