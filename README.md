@@ -1,6 +1,16 @@
-# shell_task
+# Welcome to shell_script!
 
-## Entrar na pasta do projeto com o terminal e em seguida digitar o comando:
+Bem vindo ao meu primeiro **Shell Script**. Feito para instalar programas facilmente no Linux.
 
-``chmod +x main.sh``
-``./main.sh``
+## Salve os arquivos localmente
+
+Recomendo salvar na pasta Downloads, assim, posteriormente será mais fácil de acessar os arquivos da pasta pelo terminal.
+
+## Acessando o terminal
+
+Ao acessar o terminal digite o comando:
+
+``sudo -i``
+
+> Insira a sua senha.
+> Este comando irá lhe dar os privilégios de um usuário **root**.

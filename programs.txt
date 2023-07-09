@@ -1,6 +1,5 @@
-git
-brave
-edge
-chrome
-vscode
-telegram
+git-all
+code
+nodejs
+npm
+nvm
